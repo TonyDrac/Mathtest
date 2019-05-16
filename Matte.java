@@ -1,6 +1,6 @@
 package com.hmkcode.junit;
 
-public class Matte {
+public class Math {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
